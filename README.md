@@ -9,7 +9,7 @@
   
 - ✔️ I'm also doing some side project as well
   
-- 🌱 I’m currently learning **DATA SCIENCE AND NEW SKILLS**
+- 🌱 I’m currently learning **Data Science And New Skills**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mayank-bhat](www.linkedin.com/in/mayank-bhat)
 
