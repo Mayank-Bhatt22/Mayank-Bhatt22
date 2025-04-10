@@ -5,9 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mayank-bhatt22" alt="mayank-bhatt22" /></a> </p>
 
-- 🔭 I’m currently working on [Learn Numpy]()
-
-- 🌱 I’m currently learning **HTML,CSS and Statistics**
+- 🔭 I’m currently working on [Learn Numpy](https://github.com/Mayank-Bhatt22/Learn-Numpy)
+- 
+- ✔️ I'm also doing some side project as well
+- 
+- 🌱 I’m currently learning **DATA SCIENCE AND NEW SKILLS**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/mayank-bhat](www.linkedin.com/in/mayank-bhat)
 
