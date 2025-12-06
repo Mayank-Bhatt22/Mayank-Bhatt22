@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **Data Science And New Skills**
 
-- 📝 I regularly write articles on [www.linkedin.com/in/mayank-bhat](www.linkedin.com/in/mayank-bhat)
+- 📝 I regularly post on [www.linkedin.com/in/mayank-bhat](www.linkedin.com/in/mayank-bhat)
 
 - 💬 Ask me about **Python, SQL, Excel and PowerBI**
 
