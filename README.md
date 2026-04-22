@@ -156,15 +156,6 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mayank-Bhatt22&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
-</p>
-
----
 
 # 🌐 Connect With Me
 
