@@ -25,10 +25,12 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 ---
 
 ## 🧰 Tech Stack  
-
 ### 📊 Data Science & Analytics  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://skillicons.dev/icons?i=python,r" />
+  <img src="https://img.icons8.com/color/48/pandas.png" title="Pandas"/>
+  <img src="https://img.icons8.com/color/48/numpy.png" title="NumPy"/>
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Scikit-learn"/>
 </p>
 
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, NLTK  
@@ -37,7 +39,11 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 ### 🤖 Machine Learning & AI  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Machine Learning"/>
+  <img src="https://img.icons8.com/fluency/48/nlp.png" title="NLP"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" title="LangChain"/>
 </p>
 
 - Supervised Learning, Unsupervised Learning  
@@ -48,7 +54,7 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 ### 🌐 Backend & Web  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flask,html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=flask,html,css,javascript" />
 </p>
 
 - Flask, REST APIs  
@@ -58,7 +64,7 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 ### 🗄️ Databases & Querying  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
 </p>
 
 - SQL, MySQL, PostgreSQL, MongoDB, SQLite3  
@@ -67,7 +73,10 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 ### 📈 Data Visualization & BI  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=excel,looker,tableau,powerbi" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" title="Excel"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+  <img src="https://img.icons8.com/color/48/tableau-software.png" title="Tableau"/>
+  <img src="https://img.icons8.com/color/48/google-data-studio.png" title="Looker Studio"/>
 </p>
 
 - Power BI, Tableau, Looker Studio, Excel  
@@ -76,7 +85,7 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 ### ⚙️ Tools & Platforms  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://skillicons.dev/icons?i=git,github" />
 </p>
 
 - Git, GitHub, Jupyter Notebook, Google Colab  
@@ -113,9 +122,9 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Leonidus786&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank-Bhatt22&show_icons=true&theme=radical" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leonidus786&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Bhatt22&layout=compact&theme=radical" />
 
 </p>
 
@@ -125,16 +134,16 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Leonidus786&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank-Bhatt22&theme=radical&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Activity Graph (Moving Purple Dot + Green Band)
+# 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Leonidus786&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mayank-Bhatt22&theme=react-dark"/>
 </p>
 
 ---
@@ -152,7 +161,7 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Leonidus786&theme=radical&no-frame=false&no-bg=true&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mayank-Bhatt22&theme=radical&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
