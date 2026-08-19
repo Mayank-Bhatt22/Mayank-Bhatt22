@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋 I'm Mayank Bhatt</h1>
 
 <h3 align="center">
-Data Analyst 
-• ML Enthusiast • Building Data-Driven Solutions
+Data Analyst • ML Enthusiast • Exploring Data, Insights & Predictive Modeling
 </h3>
 
 <p align="center">
