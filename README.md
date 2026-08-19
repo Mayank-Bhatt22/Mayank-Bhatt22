@@ -43,6 +43,7 @@ Building ML-powered apps, analytics dashboards, and data-driven solutions
   <img src="https://img.icons8.com/fluency/48/nlp.png" title="NLP"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48" title="Hugging Face"/>
   <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" width="48" title="LangChain"/>
+  <img src="https://www.tensorflow.org/images/tf_logo_social.png" width="48" title="Deep Learning"/>
 </p>
 
 - Supervised Learning, Unsupervised Learning  
